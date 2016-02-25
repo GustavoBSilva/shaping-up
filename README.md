@@ -1,2 +1,4 @@
 # shaping-up
-Repositório para abrigar os projetos com fins de aprendizado e aprimoramento.
+Olá!
+
+Estou testando a realização de alterações no arquivo de texto.
